@@ -13,7 +13,7 @@ params:
     title: Hi, my name is Michael
   blog: {}
   contact:
-    address:London Business School
+    address: London Business School
       - city: City, ST 00000
         country: Country
         street: Street
